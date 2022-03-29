@@ -19,6 +19,21 @@ programa sorteia 6 números e verifica a quantidade de acertos.
 #### Disponivel em:
 [GitHubPages](https://hemanuela-fernandes.github.io/Lotecaria/)
 
+### Código principal
+
+```js:
+function verificaAcertos() {
+    let cont = 0
+    numDig.forEach(function (valor, index) {
+        if (numSort.includes(valor)) {
+            cont = cont + 1
+        }
+    })
+    document.getElementById("total").innerText = cont
+}
+
+```
+
 ### Prints da tela do WebApp:
 
 | tela inicial | Primeira rodada |
