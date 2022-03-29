@@ -38,4 +38,4 @@ function verificaAcertos() {
 
 | tela inicial | Primeira rodada |
 | ------------ | --------------- |
-|   ![tela inicial do site](/img/img1.png)   |   ![tela da primeira rodadda](/img/img2.png)      |
+|   ![tela inicial do site](/img/img1.png)   |   ![tela da primeira rodada](https://raw.githubusercontent.com/hemanuela-fernandes/Lotecaria/master/img/img2.png)      |
