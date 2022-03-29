@@ -38,4 +38,4 @@ function verificaAcertos() {
 
 | tela inicial | Primeira rodada |
 | ------------ | --------------- |
-|   imagem 1   |   imagem 2      |
+|   ![tela inicial do site](/img/img1.png)   |   ![tela da primeira rodadda](/img/img2.png)      |
