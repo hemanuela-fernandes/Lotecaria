@@ -14,7 +14,7 @@ programa sorteia 6 números e verifica a quantidade de acertos.
 
 1. [x] Subir no github pages
 2. [ ] Trocar o Alert por mensagens mais amigaveis
-3. [ ] Realixar teste para descobrir bugs 🦟
+3. [ ] Realizar teste para descobrir bugs 🦟
 
 #### Disponivel em:
 [GitHubPages](https://hemanuela-fernandes.github.io/Lotecaria/)
